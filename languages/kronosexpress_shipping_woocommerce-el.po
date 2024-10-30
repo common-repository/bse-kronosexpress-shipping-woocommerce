@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kronosexpress_shipping_woocommerce\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: https://bse.com.cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el_GR\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Tracking System Installation"
+msgstr "Εγκατάσταση Συστήματος Παρακολούθησης"
+
+msgid "You may use the following shortcode [kronosexpress_tracking_system] to add tracking on your website."
+msgstr "Μπορείτε να χρησιμοποιήσετε τον ακόλουθο σύντομο κωδικό (shortcode) [kronosexpress_tracking_system] για να προσθέσετε παρακολούθηση πακέτων στον ιστότοπό σας."
+
+msgid "Request Quotation"
+msgstr "Ζητήστε Προσφορά"
+
+msgid "Get Account"
+msgstr "Αποστολή Προσφοράς"
+
+msgid "Create SandBox"
+msgstr "Δημιουργήστε Λογαριασμό Sandbox"
+
+msgid "Send us a request to open an account."
+msgstr "Στείλτε μας ένα αίτημα για άνοιγμα λογαριασμού."
+
+msgid "Create Sandbox Account"
+msgstr "Δημιουργία"
+
+msgid "Create a sandbox account for your development/testing environment."
+msgstr "Δημιουργήστε έναν λογαριασμό sandbox για το περιβάλλον ανάπτυξης / δοκιμών σας."
+
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+msgid "Enable SandBox"
+msgstr "Ενεργοποίηση Sandbox"
+
+msgid "Enable or Disable the plugin"
+msgstr "Ενεργοποίηστε ή απενεργοποίηστε το πρόσθετο"
+
+msgid "Enable or Disable the sandbox"
+msgstr "Ενεργοποίηστε ή απενεργοποίηστε το sandbox περιβάλλον"
+
+msgid "Required Field in order to communicate with the KronosExpress Service"
+msgstr "Απαιτούμενο πεδίο για επικοινωνία με την υπηρεσία KronosExpress API"
+
+msgid "Tracking Customer Notification (as soon as a shipping label is created or cancelled)"
+msgstr "Παρακολούθηση ειδοποίησης πελατών (μόλις δημιουργηθεί ή ακυρωθεί μια ετικέτα αποστολής)"
+
+msgid "Enable the option if you would like your customer to receive an email as soon as a Kronos Express shipping label is created or cancelled."
+msgstr "Ενεργοποιήστε την επιλογή εάν θέλετε ο πελάτης σας να λαμβάνει ένα μήνυμα ηλεκτρονικού ταχυδρομείου μόλις δημιουργηθεί ή ακυρωθεί μια ετικέτα αποστολής Kronos Express."
+
+msgid "Tracking Customer Notification (when an order is completed)"
+msgstr "Παρακολούθηση ειδοποίησης πελατών (όταν ολοκληρωθεί μια παραγγελία)"
+
+msgid "Enable the option if you would like your customer to receive a tracking link when an order is marked as completed."
+msgstr "Ενεργοποιήστε την επιλογή εάν θέλετε ο πελάτης σας να λαμβάνει έναν σύνδεσμο παρακολούθησης όταν μια παραγγελία επισημαίνεται ως ολοκληρωμένη."
+
+msgid "ACCOUNT REQUEST"
+msgstr "ΑΙΤΗΣΗ ΓΙΑ ΠΡΟΣΦΟΡΑ"
+
+msgid "CONTACT DETAILS"
+msgstr "ΣΤΟΙΧΕΙΑ ΕΠΙΚΟΙΝΩΝΙΑΣ"
+
+msgid "* NAME"
+msgstr "* ΟΝΟΜΑ"
+
+msgid "COMPANY"
+msgstr "ΕΤΑΙΡΕΙΑ"
+
+msgid "* TELEPHONE"
+msgstr "* ΤΗΛΕΦΩΝΟ"
+
+msgid "NUMBER OF ORDERS"
+msgstr "ΑΡΙΘΜΟΣ ΑΠΟΣΤΟΛΩΝ"
+
+msgid "MONTHLY"
+msgstr "ΜΗΝΑΙΩΣ"
+
+msgid "COMMENTS"
+msgstr "ΣΧΟΛΙΑ"
+
+msgid "CREATE SANDBOX ACCOUNT"
+msgstr "ΔΗΜΙΟΥΡΓΙΑ SANDBOX ΛΟΓΑΡΙΑΣΜΟΥ"
+
+msgid "* SURNAME"
+msgstr "* ΕΠΙΘΕΤΟ"
+
+msgid "SUBMIT"
+msgstr "ΑΠΟΣΤΟΛΗ"
+
+msgid "CLOSE"
+msgstr "ΕΞΟΔΟΣ"
+
+msgid "Thank you. Your application has been submitted. We will contact you as soon as possible!"
+msgstr "Ευχαριστούμε. Η αίτηση σας έχει καταχωρηθεί. Θα επικοινωνήσουμε μαζί σας το συντομότερο!"
+
+msgid "Thank you. Please check your email!"
+msgstr "Ευχαριστούμε. Ελέξετε το email σας!"
+
+msgid "REFERENCE NUMBER DOES NOT EXIST"
+msgstr "ΔΕΛΤΙΟ ΑΠΟΣΤΟΛΗΣ ΔΕΝ ΒΡΕΘΗΚΕ"
+
+msgid "Reference Number"
+msgstr "Αριθμός Αποστολής"
+
+msgid "Tracking System"
+msgstr "Σύστημα Εντοπισμού"
+
+msgid "DATE"
+msgstr "ΗΜΕΡΟΜΗΝΙΑ"
+
+msgid "LOCATION"
+msgstr "ΣΤΑΘΜΟΣ"
+
+msgid "STATUS"
+msgstr "ΚΑΤΑΣΤΑΣΗ"
+
+msgid "ERROR. PLEASE RETRY"
+msgstr "ΣΦΑΛΜΑ: ΠΙΕΣΤΕ F5"
+
+msgid "PICKUP LOCATION"
+msgstr "ΣΤΑΘΜΟΣ ΠΑΡΑΛΑΒΗΣ"
+
+msgid "Nicosia"
+msgstr "Λευκωσία"
+
+msgid "Limmasol"
+msgstr "Λεμεσός"
+
+msgid "Larnaca"
+msgstr "Λάρνακα"
+
+msgid "Paphos"
+msgstr "Πάφος"
+
+msgid "Famagusta"
+msgstr "Αμμόχωστος"
+
+msgid "YOU MUST SELECT A PICKUP LOCATION"
+msgstr "ΠΑΡΑΚΑΛΩ ΕΠΙΛΕΞΤΕ ΣΤΑΘΜΟ ΠΑΡΑΛΑΒΗΣ"
+
+msgid "The plugin must be enabled"
+msgstr "Το πρόσθετο δεν είναι ενεργό"
+
+msgid "Track your parcel"
+msgstr "Εντοπισμός Αντικειμένου"
+
+msgid "The voucher "
+msgstr "Το δελτίο αποστολής "
+
+msgid " has been cancelled."
+msgstr " έχει ακυρωθεί."
